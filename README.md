@@ -148,6 +148,14 @@ npm run compile
 
 Press `F5` to run in Extension Development Host.
 
+## Maintainer
+
+This project is led and maintained by **Lab-Overflow**.
+
+- About: https://www.calculatorcaloriefree.com/about
+- Email: 1248578665@qq.com
+- Issues: https://github.com/Lab-Overflow/prompt-optimizer-lite/issues
+
 ## Star History
 
 <a href="https://www.star-history.com/#Lab-Overflow/prompt-optimizer-lite&Date">
