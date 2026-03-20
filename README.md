@@ -152,17 +152,8 @@ Press `F5` to run in Extension Development Host.
 
 <a href="https://www.star-history.com/#Lab-Overflow/prompt-optimizer-lite&Date">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://api.star-history.com/svg?repos=Lab-Overflow/prompt-optimizer-lite&type=Date&theme=dark"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://api.star-history.com/svg?repos=Lab-Overflow/prompt-optimizer-lite&type=Date"
-    />
-    <img
-      alt="Star History Chart"
-      src="https://api.star-history.com/svg?repos=Lab-Overflow/prompt-optimizer-lite&type=Date"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Lab-Overflow/prompt-optimizer-lite&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Lab-Overflow/prompt-optimizer-lite&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Lab-Overflow/prompt-optimizer-lite&type=date&legend=top-left" />
   </picture>
 </a>
